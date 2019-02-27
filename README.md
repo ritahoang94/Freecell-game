@@ -14,6 +14,7 @@ The program is designed for developing a card game called “Free Cells” by Py
 # Brief user guide
 
 Users start the game by running the freecell.py file. 
+
 *Please find the full instruction to run the code in the user guide section in the mannual file.*
 
 1.	What is the pickup location? A user will choose among 3 pickup options (freecell, cascade, foundation). 
